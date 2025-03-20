@@ -22,6 +22,12 @@ Requirements
     - using a section container a heading a list a form a button link 
 
 
+TASKS 
+
+- add a  button to view more on the skills and project section 
+- Add a form that will enable a uswr to get in touch with you as a person
+
+
 
 
 
