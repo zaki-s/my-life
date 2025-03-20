@@ -24,7 +24,7 @@ Requirements
 
 TASKS 
 
-- add a  button to view more on the skills and project section 
+- add a  button to view more on every skill and project in the skills and project section 
 - Add a form that will enable a uswr to get in touch with you as a person
 
 
