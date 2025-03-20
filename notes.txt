@@ -1,0 +1,28 @@
+A web app that describes about the life of Joseph as a person
+
+- Provide a solution: 
+
+- CREATE A WEB APP USING (HTML, CSS & JS)
+- Describes my life 
+   - Who I'm i as a person - About me 
+   - What do I do professionally - Skills and project done
+   - What do I enjoy doing - Hobbies & After work stuff
+   - How can I be contacted - Contact form 
+
+Requirements 
+
+- Create an about me section 
+    - using a section container and heading text and paragraphs.
+    - create variables that will store about me information
+- Create a section that explain your skills and projects done 
+    - using a section container and heading and parapraphs and list  and div container
+- Create a section that describes your hobbies 
+    - using a section container a list a heading and a paragraph
+- Create a section that allows user to contact you for further communication
+    - using a section container a heading a list a form a button link 
+
+
+
+
+
+
