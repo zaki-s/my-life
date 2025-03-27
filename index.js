@@ -1,6 +1,6 @@
-let heading = 'The Life of Joseph'
-let paragraph= 'joseph is a self taught software engineer'
-const skills = ['Problem Solving', 'Good Communicator', 'Team Player', 'Self Taught', 'Fast Learner']
+let heading = 'The Life of zaki'
+let paragraph= 'Zaki is a semi-self tuaght software engineer currently in Moringa school'
+const skills = ['Problem Solving', 'Good Imagination', 'Good listener', 'Team PLayer', 'Fast Learner']
 const projects = ['Project 1', 'Project 2', 'Project 3', 'Project 4', 'Project 5']
 
 
